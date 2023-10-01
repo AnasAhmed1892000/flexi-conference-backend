@@ -17,8 +17,8 @@ To run this project locally, you need to have Node.js and MongoDB installed on y
 
 ### Installation
 
-1. Clone this repo to your local machine using `git clone https://github.com/<your-username>/beautify.git`.
-2. Go to the project directory using `cd Beautify`.
+1. Clone this repo to your local machine using `git clone https://github.com/<your-username>/flexi-conference-backend.git`.
+2. Go to the project directory using `cd flexi-conference-backend`.
 3. Install the dependencies using `npm install` or `yarn install`.
 4. The `.env` file in the root folder contains the environment variables and you can modify them:
 
